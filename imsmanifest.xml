@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6csrEpuXQyS" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Séquence 2 v1.5 (combinaison Hadir et Vincent)</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Séquence_2_v1.5_(combinaison_Hadir_et_Vincent)_ORG">
+    <organization identifier="Séquence_2_v1.5_(combinaison_Hadir_et_Vincent)_ORG">
+      <title>Séquence 2 v1.5 (combinaison Hadir et Vincent)</title>
+      <item identifier="Séquence_2_v1.3_(combinaison_Hadir_et_Vincent)_SCO" isvisible="true" identifierref="__6csrEpuXQyS_RES">
+        <title>Séquence 2 v1.5 (combinaison Hadir et Vincent)</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6csrEpuXQyS_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5sSmcdnlrWF.png" />
+      <file href="mobile/6kDJNoL6gCb.png" />
+      <file href="mobile/5qDhLGlITUW.jpg" />
+      <file href="mobile/65fr7yp9PyB.png" />
+      <file href="mobile/5ra7I9K0WSJ_M_74_74.png" />
+      <file href="mobile/6M5K6XLCqmA.png" />
+      <file href="mobile/6ObcL7KwW5s.png" />
+      <file href="mobile/6HdewbKZu0q.png" />
+      <file href="mobile/5iU1slSAoHD.png" />
+      <file href="mobile/6Bp3C55rJpD.jpg" />
+      <file href="mobile/6k4DCyP5XeE.jpg" />
+      <file href="mobile/6fHiZ05n10f.jpg" />
+      <file href="mobile/6pYuWFubWL3.jpg" />
+      <file href="mobile/5jhWadnMhbu.jpg" />
+      <file href="mobile/6cRHRG7CUKQ.jpg" />
+      <file href="mobile/6TgGJEJNhPj.png" />
+      <file href="mobile/5m8KFz0lGdh.png" />
+      <file href="mobile/6R6l1bO3xM6.png" />
+      <file href="mobile/5vSpUSUPVXM.png" />
+      <file href="mobile/5iBJF7l1Zvy.png" />
+      <file href="mobile/5tYdi3sZUJK.png" />
+      <file href="mobile/6EfEhDaPozi.png" />
+      <file href="mobile/5h6P8kOQDLG.png" />
+      <file href="mobile/5uIgs37kcFL.png" />
+      <file href="mobile/68dm4k5DrBA_P_0_0_380_400.png" />
+      <file href="mobile/67s4LnmlExL_P_0_0_365_331.png" />
+      <file href="mobile/5ik443FZ7K3_P_0_0_320_287.png" />
+      <file href="mobile/6ViGrXkqX6j_P_0_0_322_326.png" />
+      <file href="story_content/6PSoZN9cMjD.html" />
+      <file href="mobile/6PSoZN9cMjD5fZEogiHmYq{Width=560, Height=315}Light.png" />
+      <file href="mobile/6ovPtifzBPw.png" />
+      <file href="mobile/6Xlc24pgIeL.png" />
+      <file href="mobile/614zaA20R8m.png" />
+      <file href="mobile/66Sd6VaVFHy.png" />
+      <file href="mobile/5y5PGSomYB8.png" />
+      <file href="mobile/62kqnGqcMbs.png" />
+      <file href="mobile/6WLc8dvv3zQ.png" />
+      <file href="story_content/6p1JrcxhOyD.html" />
+      <file href="mobile/6p1JrcxhOyD5ZuQpdbCRJf{Width=621,3333, Height=349,5}Light.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cbFslAFo1D.js" />
+      <file href="html5/data/js/5fBUgWltP7B.js" />
+      <file href="html5/data/js/5gD3q4GQo8W.js" />
+      <file href="html5/data/js/5hoZJLkQt0m.js" />
+      <file href="html5/data/js/5iuxf2qQGh9.js" />
+      <file href="html5/data/js/5jYJBn6w3Kg.js" />
+      <file href="html5/data/js/5ljjCJaJcFU.js" />
+      <file href="html5/data/js/5rfK88UV4Kg.js" />
+      <file href="html5/data/js/5rtm1C7l2qY.js" />
+      <file href="html5/data/js/5rYFcqOPYMQ.js" />
+      <file href="html5/data/js/5wTY0moUAbv.js" />
+      <file href="html5/data/js/5x4VcbwXxzC.js" />
+      <file href="html5/data/js/5ynNLjlqAb9.js" />
+      <file href="html5/data/js/5zXAomQU5uP.js" />
+      <file href="html5/data/js/625aLfzxqZb.js" />
+      <file href="html5/data/js/640FD5lNngR.js" />
+      <file href="html5/data/js/64TMFpCl4Fj.js" />
+      <file href="html5/data/js/6E0I5X0IH8A.js" />
+      <file href="html5/data/js/6ec2NUpZV0d.js" />
+      <file href="html5/data/js/6eeIgkUTLC3.js" />
+      <file href="html5/data/js/6fBXIf9yJyA.js" />
+      <file href="html5/data/js/6fzYXurchG0.js" />
+      <file href="html5/data/js/6jjJiLQ8X2D.js" />
+      <file href="html5/data/js/6jXqUn0sOvu.js" />
+      <file href="html5/data/js/6KlH3zbdx7X.js" />
+      <file href="html5/data/js/6KRYxa2sbrF.js" />
+      <file href="html5/data/js/6M45e19g16F.js" />
+      <file href="html5/data/js/6mNZRb72Gcf.js" />
+      <file href="html5/data/js/6NBudrpm2Bp.js" />
+      <file href="html5/data/js/6OdXWATbfLg.js" />
+      <file href="html5/data/js/6oUL1igAaH4.js" />
+      <file href="html5/data/js/6p0v05cjKRw.js" />
+      <file href="html5/data/js/6QDFxCz1nnA.js" />
+      <file href="html5/data/js/6qR1d1loJR2.js" />
+      <file href="html5/data/js/6rFucbgyEGC.js" />
+      <file href="html5/data/js/6Sz2KftDN95.js" />
+      <file href="html5/data/js/6VkptX7nOjg.js" />
+      <file href="html5/data/js/6W4jSiNhRvm.js" />
+      <file href="html5/data/js/6XoYbw0KqEs.js" />
+      <file href="html5/data/js/6ZKcufL9otf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
